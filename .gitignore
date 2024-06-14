@@ -1,0 +1,10 @@
+# venv
+.pt2
+
+#results
+results/
+
+
+# cache
+__pycache__
+.DS_Store
